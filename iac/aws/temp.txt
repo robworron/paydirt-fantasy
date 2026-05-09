@@ -1,0 +1,1 @@
+After deploying AWS, this folder will hold terraform scripts, CloudFormation templates, ECS task definitions, ECR push scripts, RDS configuration. This file is just a temporary txt file to describe what will eventually be stored in this directory.
