@@ -1,2 +1,0 @@
-# Orchestrates the backend container, the frontend container, the Postgres database container, and if necessary, shared networks and shared volumes
-# docker-compose up --build
